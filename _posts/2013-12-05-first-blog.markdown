@@ -1,15 +1,19 @@
 ---
 layout:     post
-title:      "这是一个放在 Github Pages 上的 Jekyll 搭建的 Blog"
+title:      "This's a blog deploy on Github Pages which is develop by Jekyll."
 date:       2013-12-09 00:02:06
 categories: essay develop
 ---
 
-对于程序猿来说，这个 [Jekyll][jekyll] blog 系统，它简单好用，能使用 [Markdown][markdown] 和 [Textile][textile] 来写 blog 还挺爽的。  
+This's a blog deploy on [Github Pages][github pages] which is develop by [Jekyll][jekyll].
 
-我把他部署在 [Github Pages][github pages] 之上是免费的，虽然说例如还有 [Amazone S3][amazone s3] 也可以免费，不过 [Github Pages][github pages] 却是最方便的。  
+For developers [Jekyll][jekyll] is a good choose as simple blog system. It's good engouh and simple to use. I'm so happy that I could write blog use [Markdown][markdown] and [Textile][textile].
 
-另外评论功能用的是 [Disqus][disqus], 感觉是个非常不错的东西。
+Should thanks [Github Pages][github pages] provide a free deploy space. It's so good I can tracking codes of blog and publish blog entries in same time.
+
+[Disqus][disqus] are cool stuffs which is a good comment system. It's very easy to add into website.
+
+I'll keep write blog use English. My English is not good engouh, but I'll try and I should practice this.
 
 [disqus]: http://disqus.com/
 [amazone s3]: http://aws.amazon.com/s3/
