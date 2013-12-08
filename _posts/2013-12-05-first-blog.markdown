@@ -9,7 +9,7 @@ This's a blog deploy on [Github Pages][github pages] which is develop by [Jekyll
 
 For developers [Jekyll][jekyll] is a good choose as simple blog system. It's good engouh and simple to use. I'm so happy that I could write blog use [Markdown][markdown] and [Textile][textile].
 
-Should thanks [Github Pages][github pages] provide a free deploy space. It's so good I can tracking codes of blog and publish blog entries in same time.
+Should thanks [Github Pages][github pages] provide a free deploy space. It's so good I can track changes and publish blog entries in same time.
 
 [Disqus][disqus] are cool stuffs which is a good comment system. It's very easy to add into website.
 
