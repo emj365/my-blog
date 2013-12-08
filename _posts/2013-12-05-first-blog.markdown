@@ -7,13 +7,13 @@ categories: essay develop
 
 This's a blog deploy on [Github Pages][github pages] which is develop by [Jekyll][jekyll].
 
-For developers [Jekyll][jekyll] is a good choose as simple blog system. It's good engouh and simple to use. I'm so happy that I could write blog use [Markdown][markdown] and [Textile][textile].
+For developers [Jekyll][jekyll] is a good choose as simple blog system. It's good enough and simple to use. I'm so happy that I could write blog use [Markdown][markdown] and [Textile][textile].
 
 Should thanks [Github Pages][github pages] provide a free deploy space. It's so good I can track changes and publish blog entries in same time.
 
 [Disqus][disqus] are cool stuffs which is a good comment system. It's very easy to add into website.
 
-I'll keep write blog use English. My English is not good engouh, but I'll try and I should practice this.
+I'll keep write blog use English. My English is not good enough, but I'll try and I should practice it.
 
 [disqus]: http://disqus.com/
 [amazone s3]: http://aws.amazon.com/s3/
